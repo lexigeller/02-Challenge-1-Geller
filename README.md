@@ -12,11 +12,11 @@ N/A
 
 To use the website, open (link) in a browser. Navigate to the desired section by clicking the links in the upper right hand corner of the page.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Screenshot 1](assets/images/screenshot-1.png)
+    ![Screenshot 2](assets/images/screenshot-2.png)
     ```
+    [Horiseon Marketing Agency](https://lexigeller.github.io/02-Challenge-1-Geller/)
 
 ## Credits
 
@@ -26,5 +26,3 @@ N/A
 
 Please refer to the LICENSE in the repo.
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
