@@ -12,8 +12,8 @@ N/A
 
 To use the website, open (link) in a browser. Navigate to the desired section by clicking the links in the upper right hand corner of the page.
 
-[Screenshot 1](assets/images/screenshot-1.PNG)
-[Screenshot 2](assets/images/screenshot-2.PNG)
+![Screenshot 1](assets/images/screenshot-1.PNG)
+![Screenshot 2](assets/images/screenshot-2.PNG)
 
 [Horiseon Marketing Agency](https://lexigeller.github.io/02-Challenge-1-Geller/)
 
