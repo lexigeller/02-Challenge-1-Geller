@@ -12,11 +12,11 @@ N/A
 
 To use the website, open (link) in a browser. Navigate to the desired section by clicking the links in the upper right hand corner of the page.
 
-    ```md
-    ![Screenshot 1](assets/images/screenshot-1.png)
-    ![Screenshot 2](assets/images/screenshot-2.png)
-    ```
-    [Horiseon Marketing Agency](https://lexigeller.github.io/02-Challenge-1-Geller/)
+```md
+![Screenshot 1](assets/images/screenshot-1.png)
+![Screenshot 2](assets/images/screenshot-2.png)
+```
+[Horiseon Marketing Agency](https://lexigeller.github.io/02-Challenge-1-Geller/)
 
 ## Credits
 
@@ -25,4 +25,5 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
 ---
