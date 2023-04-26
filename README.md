@@ -2,7 +2,7 @@
 
 ## Description
 
-This webpage is for Horiseon, a marketing agency, to showcase their specialities, including search engine optimization, online reputiation management, and social media marketing. Potention clientele can view the company's services and how they can be utilized to generate leads, raise brand awareness, and help manage costs.
+This webpage is for Horiseon, a marketing agency, to showcase their specialities, including search engine optimization, online reputiation management, and social media marketing. Potential clientele can view the company's services and how they can be utilized to generate leads, raise brand awareness, and help manage costs.
 
 ## Installation
 
